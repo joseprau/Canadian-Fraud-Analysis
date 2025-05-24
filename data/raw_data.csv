@@ -1,0 +1,22 @@
+﻿Atribut;Tipus;Descripció;Exemple
+Numero d'identification / Number ID;Numèric identificatiu;Número identificador del cas;1
+Date Received / Date recue;Dates;Data en la que es reb la denúncia;02/01/2021
+Complaint Received Type;Categòric;Tipus de denúncia;CAFC Website
+Type de plainte recue;Categòric;Tipus de denúncia en francès;CAFC site web
+Country;Categòric;País on es reporta el frau;Canada
+Pays;Categòric;País on es reporta el frau en francès;Canada
+Province/State;Categòric;Estat on es reporta el frau;Saskatchewan
+Province/Etat;Categòric;Estat on es reporta el frau en francès;Saskatchewan
+Fraud and Cybercrime Thematic Categories;Categòric;Tipus d'atac;Merchandise
+Categories thematiques sur la fraude et la cybercriminalite;Categòric;Tipus d'atac en francès;Marchandise
+Solicitation Method;Categòric;Mitjà utilitzat per inciar el frau;Other/unknown
+Methode de sollicitation;Categòric;Mitjà utilitzat per inciar el frau en francès;Autre/inconnu
+Gender;Categòric;Génere de la víctima;Not Available
+Genre;Categòric;Génere de la víctima en francès;non disponible
+Language of Correspondence;Categòric;Idioma utilitzat en la comunicació.;Not Available
+Langue de correspondance;Categòric;Idioma utilitzat en la comunicació en francès;non disponible
+Victim Age Range / Tranche d'age des victimes;Categòric;Rang d'edat de la víctima;'Not Available / non disponible
+Complaint Type;Categòric;Tipus d' estafa.;Attempt
+Type de plainte;Categòric;Tipus d' estafa en francès;Tentative
+Number of Victims / Nombre de victimes;Quantitatiu;Nombre de víctimes;0
+Dollar Loss /pertes financieres;Quantitatiu;Cost econòmic del frau;$0.00
